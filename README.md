@@ -1,1 +1,1 @@
-# ts-monads
+# TS MONADS
